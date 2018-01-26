@@ -6,10 +6,10 @@
   "forgetTime": "500",
   "magnetoMagnitude": "100",
   "magnetoPearson": "0.5f",
-  "maxDevicesToTry": "1",
+  "maxDevicesToTry": "3",
   "writeAttempts": "3",
   "minRssiDiff": "10",
   "bleDiscoveryTimeout": "700",
   "deviceAddressFilters": ["38:32:00:3C:00:19", "38:32:00:3D:00:32"],
-  "deviceNameFilter": "AAA"
+  "deviceNameFilter": "MWC"
 }
