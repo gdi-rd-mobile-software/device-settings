@@ -1,0 +1,15 @@
+{
+  "serviceUuid": "5a99cb20-8ec8-11e5-a0bf-0002a5d5c51b",
+  "characteristicUuid": "71758a00-8ec8-11e5-b19f-0002a5d5c51b",
+  "rescanTimeout": "500",
+  "connectionTimeout": "2500",
+  "forgetTime": "500",
+  "magnetoMagnitude": "100",
+  "magnetoPearson": "0.5f",
+  "maxDevicesToTry": "3",
+  "writeAttempts": "3",
+  "minRssiDiff": "10",
+  "bleDiscoveryTimeout": "700",
+  "deviceAddressFilters": ["38:32:00:3C:00:19", "38:32:00:3D:00:32"],
+  "deviceNameFilter": "AAA"
+}
