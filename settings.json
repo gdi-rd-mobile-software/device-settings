@@ -9,6 +9,7 @@
   "maxDevicesToTry": "1",
   "writeAttempts": "3",
   "minRssiDiff": "10",
+  "minRssiValue": "-70",
   "bleDiscoveryTimeout": "700",
   "deviceAddressFilters": [
   "38:32:00:3C:00:19", 
