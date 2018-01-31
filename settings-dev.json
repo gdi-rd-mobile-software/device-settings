@@ -10,7 +10,7 @@
   "writeAttempts": "3",
   "minRssiDiff": "10",
   "bleDiscoveryTimeout": "700",
-  "minRssiValue": "-70",
+  "minRssiValue": "-10",
   "deviceAddressFilters": ["38:32:00:3C:00:19", "38:32:00:3D:00:32"],
-  "deviceNameFilter": "AAA"
+  "deviceNameFilter": "MWC"
 }
